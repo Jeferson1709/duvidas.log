@@ -1,0 +1,28 @@
+{
+  "duvidas": [
+    {
+      "id": "1",
+      "titulo": "O que é closure em JavaScript?",
+      "descricao": "Entendi a definição mas não sei identificar quando estou usando na prática. Vi no vídeo do módulo 3 mas não ficou claro.",
+      "materia": "JavaScript",
+      "resolvida": false,
+      "criadaEm": "2025-01-15T14:30:00.000Z"
+    },
+    {
+      "id": "2",
+      "titulo": "Diferença entre useEffect e useLayoutEffect",
+      "descricao": "Qual o caso de uso real de cada um? A documentação é confusa.",
+      "materia": "React",
+      "resolvida": true,
+      "criadaEm": "2025-01-16T09:00:00.000Z"
+    },
+    {
+      "id": "3",
+      "titulo": "Como tipar eventos de formulário no TypeScript?",
+      "descricao": "Fica dando erro no onChange quando tento tipar o evento. Não sei se uso React.ChangeEvent ou ChangeEvent diretamente.",
+      "materia": "TypeScript",
+      "resolvida": false,
+      "criadaEm": "2025-01-17T20:15:00.000Z"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "duvidas": [
+    {
+      "id": "3",
+      "titulo": "Como tipar eventos de formulário no TypeScript?",
+      "descricao": "Fica dando erro no onChange quando tento tipar o evento. Não sei se uso React.ChangeEvent ou ChangeEvent diretamente.",
+      "materia": "TypeScript",
+      "resolvida": true,
+      "criadaEm": "2025-01-17T20:15:00.000Z"
+    }
+  ]
+}
